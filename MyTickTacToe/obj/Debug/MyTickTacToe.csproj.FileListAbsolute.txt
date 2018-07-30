@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\MyTickTacToe\MyTickTacToe\bin\Debug\MyTickTacToe.exe.config
+C:\Users\Admin\source\repos\MyTickTacToe\MyTickTacToe\bin\Debug\MyTickTacToe.exe
+C:\Users\Admin\source\repos\MyTickTacToe\MyTickTacToe\bin\Debug\MyTickTacToe.pdb
+C:\Users\Admin\source\repos\MyTickTacToe\MyTickTacToe\obj\Debug\MyTickTacToe.Form1.resources
+C:\Users\Admin\source\repos\MyTickTacToe\MyTickTacToe\obj\Debug\MyTickTacToe.Properties.Resources.resources
+C:\Users\Admin\source\repos\MyTickTacToe\MyTickTacToe\obj\Debug\MyTickTacToe.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MyTickTacToe\MyTickTacToe\obj\Debug\MyTickTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyTickTacToe\MyTickTacToe\obj\Debug\MyTickTacToe.exe
+C:\Users\Admin\source\repos\MyTickTacToe\MyTickTacToe\obj\Debug\MyTickTacToe.pdb
